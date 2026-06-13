@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Database files
+# Agar bazani (users.json, results.json) GitHub'ga yuklanishini xohlasangiz,
+# quyidagi ikki qatorni o'chirishingiz mumkin. Hozirda bu papka ignore qilingan.
+database/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

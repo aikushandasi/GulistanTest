@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Amir Temur qachon tug'ilgan?",
+    "variantlar": [
+      "1370-yil",
+      "1336-yil",
+      "1405-yil",
+      "1449-yil"
+    ],
+    "togri": "B",
+    "id": 1,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi?",
+    "variantlar": [
+      "1990-yil",
+      "1992-yil",
+      "1989-yil",
+      "1991-yil"
+    ],
+    "togri": "D",
+    "id": 2,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim?",
+    "variantlar": [
+      "Olim",
+      "Shoh va shoir",
+      "Sarkarda",
+      "Faylasuf"
+    ],
+    "togri": "B",
+    "id": 3,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi?",
+    "variantlar": [
+      "Tibbiyot",
+      "Adabiyot",
+      "Matematika",
+      "Tarix"
+    ],
+    "togri": "C",
+    "id": 4,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Ulug'bek rasadxonasi qayerda joylashgan?",
+    "variantlar": [
+      "Xiva",
+      "Toshkent",
+      "Buxoro",
+      "Samarqand"
+    ],
+    "togri": "D",
+    "id": 5,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Amir Temur qachon tug'ilgan? (6-savol variant)",
+    "variantlar": [
+      "1405-yil",
+      "1370-yil",
+      "1336-yil",
+      "1449-yil"
+    ],
+    "togri": "C",
+    "id": 6,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi? (7-savol variant)",
+    "variantlar": [
+      "1989-yil",
+      "1992-yil",
+      "1990-yil",
+      "1991-yil"
+    ],
+    "togri": "D",
+    "id": 7,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim? (8-savol variant)",
+    "variantlar": [
+      "Olim",
+      "Faylasuf",
+      "Sarkarda",
+      "Shoh va shoir"
+    ],
+    "togri": "D",
+    "id": 8,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi? (9-savol variant)",
+    "variantlar": [
+      "Matematika",
+      "Tibbiyot",
+      "Adabiyot",
+      "Tarix"
+    ],
+    "togri": "A",
+    "id": 9,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Ulug'bek rasadxonasi qayerda joylashgan? (10-savol variant)",
+    "variantlar": [
+      "Buxoro",
+      "Xiva",
+      "Samarqand",
+      "Toshkent"
+    ],
+    "togri": "C",
+    "id": 10,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Amir Temur qachon tug'ilgan? (11-savol variant)",
+    "variantlar": [
+      "1370-yil",
+      "1405-yil",
+      "1336-yil",
+      "1449-yil"
+    ],
+    "togri": "C",
+    "id": 11,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi? (12-savol variant)",
+    "variantlar": [
+      "1991-yil",
+      "1989-yil",
+      "1990-yil",
+      "1992-yil"
+    ],
+    "togri": "A",
+    "id": 12,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim? (13-savol variant)",
+    "variantlar": [
+      "Sarkarda",
+      "Faylasuf",
+      "Shoh va shoir",
+      "Olim"
+    ],
+    "togri": "C",
+    "id": 13,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi? (14-savol variant)",
+    "variantlar": [
+      "Tibbiyot",
+      "Adabiyot",
+      "Matematika",
+      "Tarix"
+    ],
+    "togri": "C",
+    "id": 14,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Ulug'bek rasadxonasi qayerda joylashgan? (15-savol variant)",
+    "variantlar": [
+      "Samarqand",
+      "Buxoro",
+      "Toshkent",
+      "Xiva"
+    ],
+    "togri": "A",
+    "id": 15,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Amir Temur qachon tug'ilgan? (16-savol variant)",
+    "variantlar": [
+      "1336-yil",
+      "1449-yil",
+      "1370-yil",
+      "1405-yil"
+    ],
+    "togri": "A",
+    "id": 16,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi? (17-savol variant)",
+    "variantlar": [
+      "1991-yil",
+      "1989-yil",
+      "1992-yil",
+      "1990-yil"
+    ],
+    "togri": "A",
+    "id": 17,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim? (18-savol variant)",
+    "variantlar": [
+      "Olim",
+      "Shoh va shoir",
+      "Sarkarda",
+      "Faylasuf"
+    ],
+    "togri": "B",
+    "id": 18,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi? (19-savol variant)",
+    "variantlar": [
+      "Adabiyot",
+      "Matematika",
+      "Tibbiyot",
+      "Tarix"
+    ],
+    "togri": "B",
+    "id": 19,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Ulug'bek rasadxonasi qayerda joylashgan? (20-savol variant)",
+    "variantlar": [
+      "Xiva",
+      "Samarqand",
+      "Toshkent",
+      "Buxoro"
+    ],
+    "togri": "B",
+    "id": 20,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Amir Temur qachon tug'ilgan? (21-savol variant)",
+    "variantlar": [
+      "1449-yil",
+      "1405-yil",
+      "1370-yil",
+      "1336-yil"
+    ],
+    "togri": "D",
+    "id": 21,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi? (22-savol variant)",
+    "variantlar": [
+      "1992-yil",
+      "1989-yil",
+      "1990-yil",
+      "1991-yil"
+    ],
+    "togri": "D",
+    "id": 22,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim? (23-savol variant)",
+    "variantlar": [
+      "Olim",
+      "Faylasuf",
+      "Sarkarda",
+      "Shoh va shoir"
+    ],
+    "togri": "D",
+    "id": 23,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi? (24-savol variant)",
+    "variantlar": [
+      "Tibbiyot",
+      "Tarix",
+      "Matematika",
+      "Adabiyot"
+    ],
+    "togri": "C",
+    "id": 24,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Ulug'bek rasadxonasi qayerda joylashgan? (25-savol variant)",
+    "variantlar": [
+      "Toshkent",
+      "Samarqand",
+      "Xiva",
+      "Buxoro"
+    ],
+    "togri": "B",
+    "id": 25,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Amir Temur qachon tug'ilgan? (26-savol variant)",
+    "variantlar": [
+      "1370-yil",
+      "1449-yil",
+      "1405-yil",
+      "1336-yil"
+    ],
+    "togri": "D",
+    "id": 26,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi? (27-savol variant)",
+    "variantlar": [
+      "1992-yil",
+      "1989-yil",
+      "1991-yil",
+      "1990-yil"
+    ],
+    "togri": "C",
+    "id": 27,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim? (28-savol variant)",
+    "variantlar": [
+      "Olim",
+      "Faylasuf",
+      "Sarkarda",
+      "Shoh va shoir"
+    ],
+    "togri": "D",
+    "id": 28,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi? (29-savol variant)",
+    "variantlar": [
+      "Adabiyot",
+      "Tibbiyot",
+      "Matematika",
+      "Tarix"
+    ],
+    "togri": "C",
+    "id": 29,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Ulug'bek rasadxonasi qayerda joylashgan? (30-savol variant)",
+    "variantlar": [
+      "Toshkent",
+      "Xiva",
+      "Buxoro",
+      "Samarqand"
+    ],
+    "togri": "D",
+    "id": 30,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Amir Temur qachon tug'ilgan? (31-savol variant)",
+    "variantlar": [
+      "1336-yil",
+      "1449-yil",
+      "1370-yil",
+      "1405-yil"
+    ],
+    "togri": "A",
+    "id": 31,
+    "daraja": "oson"
+  },
+  {
+    "savol": "O'zbekiston qachon mustaqillikka erishdi? (32-savol variant)",
+    "variantlar": [
+      "1991-yil",
+      "1990-yil",
+      "1989-yil",
+      "1992-yil"
+    ],
+    "togri": "A",
+    "id": 32,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Zahiriddin Muhammad Bobur kim? (33-savol variant)",
+    "variantlar": [
+      "Olim",
+      "Faylasuf",
+      "Sarkarda",
+      "Shoh va shoir"
+    ],
+    "togri": "D",
+    "id": 33,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Al-Xorazmiy qaysi soha olimi? (34-savol variant)",
+    "variantlar": [
+      "Matematika",
+      "Adabiyot",
+      "Tibbiyot",
+      "Tarix"
+    ],
+    "togri": "A",
+    "id": 34,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan?",
+    "variantlar": [
+      "Amudaryo",
+      "Sirdaryo",
+      "Zarafshon",
+      "Sind"
+    ],
+    "togri": "D",
+    "id": 35,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan?",
+    "variantlar": [
+      "1499-yil",
+      "1505-yil",
+      "1501-yil",
+      "1510-yil"
+    ],
+    "togri": "C",
+    "id": 36,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan?",
+    "variantlar": [
+      "1920-yil",
+      "1868-yil",
+      "1917-yil",
+      "1924-yil"
+    ],
+    "togri": "A",
+    "id": 37,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (4-savol variant)",
+    "variantlar": [
+      "Sirdaryo",
+      "Zarafshon",
+      "Amudaryo",
+      "Sind"
+    ],
+    "togri": "D",
+    "id": 38,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (5-savol variant)",
+    "variantlar": [
+      "1505-yil",
+      "1499-yil",
+      "1510-yil",
+      "1501-yil"
+    ],
+    "togri": "D",
+    "id": 39,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (6-savol variant)",
+    "variantlar": [
+      "1920-yil",
+      "1868-yil",
+      "1917-yil",
+      "1924-yil"
+    ],
+    "togri": "A",
+    "id": 40,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (7-savol variant)",
+    "variantlar": [
+      "Sind",
+      "Sirdaryo",
+      "Amudaryo",
+      "Zarafshon"
+    ],
+    "togri": "A",
+    "id": 41,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (8-savol variant)",
+    "variantlar": [
+      "1501-yil",
+      "1505-yil",
+      "1510-yil",
+      "1499-yil"
+    ],
+    "togri": "A",
+    "id": 42,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (9-savol variant)",
+    "variantlar": [
+      "1920-yil",
+      "1917-yil",
+      "1924-yil",
+      "1868-yil"
+    ],
+    "togri": "A",
+    "id": 43,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (10-savol variant)",
+    "variantlar": [
+      "Amudaryo",
+      "Zarafshon",
+      "Sind",
+      "Sirdaryo"
+    ],
+    "togri": "C",
+    "id": 44,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (11-savol variant)",
+    "variantlar": [
+      "1499-yil",
+      "1501-yil",
+      "1510-yil",
+      "1505-yil"
+    ],
+    "togri": "B",
+    "id": 45,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (12-savol variant)",
+    "variantlar": [
+      "1920-yil",
+      "1868-yil",
+      "1924-yil",
+      "1917-yil"
+    ],
+    "togri": "A",
+    "id": 46,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (13-savol variant)",
+    "variantlar": [
+      "Sind",
+      "Sirdaryo",
+      "Amudaryo",
+      "Zarafshon"
+    ],
+    "togri": "A",
+    "id": 47,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (14-savol variant)",
+    "variantlar": [
+      "1499-yil",
+      "1510-yil",
+      "1501-yil",
+      "1505-yil"
+    ],
+    "togri": "C",
+    "id": 48,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (15-savol variant)",
+    "variantlar": [
+      "1917-yil",
+      "1920-yil",
+      "1868-yil",
+      "1924-yil"
+    ],
+    "togri": "B",
+    "id": 49,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (16-savol variant)",
+    "variantlar": [
+      "Zarafshon",
+      "Sind",
+      "Sirdaryo",
+      "Amudaryo"
+    ],
+    "togri": "B",
+    "id": 50,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (17-savol variant)",
+    "variantlar": [
+      "1499-yil",
+      "1510-yil",
+      "1501-yil",
+      "1505-yil"
+    ],
+    "togri": "C",
+    "id": 51,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (18-savol variant)",
+    "variantlar": [
+      "1868-yil",
+      "1920-yil",
+      "1924-yil",
+      "1917-yil"
+    ],
+    "togri": "B",
+    "id": 52,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (19-savol variant)",
+    "variantlar": [
+      "Sind",
+      "Sirdaryo",
+      "Amudaryo",
+      "Zarafshon"
+    ],
+    "togri": "A",
+    "id": 53,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (20-savol variant)",
+    "variantlar": [
+      "1501-yil",
+      "1505-yil",
+      "1510-yil",
+      "1499-yil"
+    ],
+    "togri": "A",
+    "id": 54,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (21-savol variant)",
+    "variantlar": [
+      "1924-yil",
+      "1917-yil",
+      "1920-yil",
+      "1868-yil"
+    ],
+    "togri": "C",
+    "id": 55,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (22-savol variant)",
+    "variantlar": [
+      "Zarafshon",
+      "Sind",
+      "Sirdaryo",
+      "Amudaryo"
+    ],
+    "togri": "B",
+    "id": 56,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (23-savol variant)",
+    "variantlar": [
+      "1501-yil",
+      "1510-yil",
+      "1499-yil",
+      "1505-yil"
+    ],
+    "togri": "A",
+    "id": 57,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (24-savol variant)",
+    "variantlar": [
+      "1924-yil",
+      "1917-yil",
+      "1868-yil",
+      "1920-yil"
+    ],
+    "togri": "D",
+    "id": 58,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (25-savol variant)",
+    "variantlar": [
+      "Zarafshon",
+      "Amudaryo",
+      "Sirdaryo",
+      "Sind"
+    ],
+    "togri": "D",
+    "id": 59,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (26-savol variant)",
+    "variantlar": [
+      "1505-yil",
+      "1499-yil",
+      "1510-yil",
+      "1501-yil"
+    ],
+    "togri": "D",
+    "id": 60,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (27-savol variant)",
+    "variantlar": [
+      "1917-yil",
+      "1924-yil",
+      "1920-yil",
+      "1868-yil"
+    ],
+    "togri": "C",
+    "id": 61,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (28-savol variant)",
+    "variantlar": [
+      "Sirdaryo",
+      "Amudaryo",
+      "Zarafshon",
+      "Sind"
+    ],
+    "togri": "D",
+    "id": 62,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (29-savol variant)",
+    "variantlar": [
+      "1499-yil",
+      "1510-yil",
+      "1505-yil",
+      "1501-yil"
+    ],
+    "togri": "D",
+    "id": 63,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (30-savol variant)",
+    "variantlar": [
+      "1920-yil",
+      "1917-yil",
+      "1924-yil",
+      "1868-yil"
+    ],
+    "togri": "A",
+    "id": 64,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi daryo bo'yida Chingizxonga qarshi jang qilgan? (31-savol variant)",
+    "variantlar": [
+      "Amudaryo",
+      "Zarafshon",
+      "Sirdaryo",
+      "Sind"
+    ],
+    "togri": "D",
+    "id": 65,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Shayboniylar davlati qachon tashkil topgan? (32-savol variant)",
+    "variantlar": [
+      "1499-yil",
+      "1510-yil",
+      "1501-yil",
+      "1505-yil"
+    ],
+    "togri": "C",
+    "id": 66,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Buxoro amirligi qachon tugatilgan? (33-savol variant)",
+    "variantlar": [
+      "1920-yil",
+      "1917-yil",
+      "1868-yil",
+      "1924-yil"
+    ],
+    "togri": "A",
+    "id": 67,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan?",
+    "variantlar": [
+      "Satuq Bug'roxon",
+      "Nasr ibn Ali",
+      "Iligxon",
+      "Tamg'achxon"
+    ],
+    "togri": "A",
+    "id": 68,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan?",
+    "variantlar": [
+      "Sudya",
+      "Moliya vaziri",
+      "Harbiy vazir",
+      "Bosh vazir"
+    ],
+    "togri": "D",
+    "id": 69,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi?",
+    "variantlar": [
+      "1320-yillar",
+      "1360-yillar",
+      "1370-yillar",
+      "1340-yillar"
+    ],
+    "togri": "D",
+    "id": 70,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (4-savol variant)",
+    "variantlar": [
+      "Satuq Bug'roxon",
+      "Nasr ibn Ali",
+      "Tamg'achxon",
+      "Iligxon"
+    ],
+    "togri": "A",
+    "id": 71,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (5-savol variant)",
+    "variantlar": [
+      "Moliya vaziri",
+      "Bosh vazir",
+      "Sudya",
+      "Harbiy vazir"
+    ],
+    "togri": "B",
+    "id": 72,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (6-savol variant)",
+    "variantlar": [
+      "1370-yillar",
+      "1360-yillar",
+      "1320-yillar",
+      "1340-yillar"
+    ],
+    "togri": "D",
+    "id": 73,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (7-savol variant)",
+    "variantlar": [
+      "Iligxon",
+      "Nasr ibn Ali",
+      "Tamg'achxon",
+      "Satuq Bug'roxon"
+    ],
+    "togri": "D",
+    "id": 74,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (8-savol variant)",
+    "variantlar": [
+      "Sudya",
+      "Moliya vaziri",
+      "Harbiy vazir",
+      "Bosh vazir"
+    ],
+    "togri": "D",
+    "id": 75,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (9-savol variant)",
+    "variantlar": [
+      "1360-yillar",
+      "1370-yillar",
+      "1340-yillar",
+      "1320-yillar"
+    ],
+    "togri": "C",
+    "id": 76,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (10-savol variant)",
+    "variantlar": [
+      "Satuq Bug'roxon",
+      "Nasr ibn Ali",
+      "Iligxon",
+      "Tamg'achxon"
+    ],
+    "togri": "A",
+    "id": 77,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (11-savol variant)",
+    "variantlar": [
+      "Sudya",
+      "Moliya vaziri",
+      "Harbiy vazir",
+      "Bosh vazir"
+    ],
+    "togri": "D",
+    "id": 78,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (12-savol variant)",
+    "variantlar": [
+      "1360-yillar",
+      "1320-yillar",
+      "1370-yillar",
+      "1340-yillar"
+    ],
+    "togri": "D",
+    "id": 79,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (13-savol variant)",
+    "variantlar": [
+      "Tamg'achxon",
+      "Satuq Bug'roxon",
+      "Nasr ibn Ali",
+      "Iligxon"
+    ],
+    "togri": "B",
+    "id": 80,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (14-savol variant)",
+    "variantlar": [
+      "Bosh vazir",
+      "Harbiy vazir",
+      "Moliya vaziri",
+      "Sudya"
+    ],
+    "togri": "A",
+    "id": 81,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (15-savol variant)",
+    "variantlar": [
+      "1340-yillar",
+      "1320-yillar",
+      "1360-yillar",
+      "1370-yillar"
+    ],
+    "togri": "A",
+    "id": 82,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (16-savol variant)",
+    "variantlar": [
+      "Iligxon",
+      "Nasr ibn Ali",
+      "Tamg'achxon",
+      "Satuq Bug'roxon"
+    ],
+    "togri": "D",
+    "id": 83,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (17-savol variant)",
+    "variantlar": [
+      "Sudya",
+      "Bosh vazir",
+      "Harbiy vazir",
+      "Moliya vaziri"
+    ],
+    "togri": "B",
+    "id": 84,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (18-savol variant)",
+    "variantlar": [
+      "1370-yillar",
+      "1320-yillar",
+      "1360-yillar",
+      "1340-yillar"
+    ],
+    "togri": "D",
+    "id": 85,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (19-savol variant)",
+    "variantlar": [
+      "Satuq Bug'roxon",
+      "Nasr ibn Ali",
+      "Iligxon",
+      "Tamg'achxon"
+    ],
+    "togri": "A",
+    "id": 86,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (20-savol variant)",
+    "variantlar": [
+      "Bosh vazir",
+      "Harbiy vazir",
+      "Moliya vaziri",
+      "Sudya"
+    ],
+    "togri": "A",
+    "id": 87,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (21-savol variant)",
+    "variantlar": [
+      "1370-yillar",
+      "1360-yillar",
+      "1320-yillar",
+      "1340-yillar"
+    ],
+    "togri": "D",
+    "id": 88,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (22-savol variant)",
+    "variantlar": [
+      "Nasr ibn Ali",
+      "Satuq Bug'roxon",
+      "Tamg'achxon",
+      "Iligxon"
+    ],
+    "togri": "B",
+    "id": 89,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (23-savol variant)",
+    "variantlar": [
+      "Bosh vazir",
+      "Harbiy vazir",
+      "Moliya vaziri",
+      "Sudya"
+    ],
+    "togri": "A",
+    "id": 90,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (24-savol variant)",
+    "variantlar": [
+      "1370-yillar",
+      "1340-yillar",
+      "1320-yillar",
+      "1360-yillar"
+    ],
+    "togri": "B",
+    "id": 91,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (25-savol variant)",
+    "variantlar": [
+      "Iligxon",
+      "Nasr ibn Ali",
+      "Satuq Bug'roxon",
+      "Tamg'achxon"
+    ],
+    "togri": "C",
+    "id": 92,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (26-savol variant)",
+    "variantlar": [
+      "Bosh vazir",
+      "Harbiy vazir",
+      "Sudya",
+      "Moliya vaziri"
+    ],
+    "togri": "A",
+    "id": 93,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (27-savol variant)",
+    "variantlar": [
+      "1340-yillar",
+      "1320-yillar",
+      "1360-yillar",
+      "1370-yillar"
+    ],
+    "togri": "A",
+    "id": 94,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (28-savol variant)",
+    "variantlar": [
+      "Satuq Bug'roxon",
+      "Nasr ibn Ali",
+      "Tamg'achxon",
+      "Iligxon"
+    ],
+    "togri": "A",
+    "id": 95,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (29-savol variant)",
+    "variantlar": [
+      "Sudya",
+      "Moliya vaziri",
+      "Harbiy vazir",
+      "Bosh vazir"
+    ],
+    "togri": "D",
+    "id": 96,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (30-savol variant)",
+    "variantlar": [
+      "1370-yillar",
+      "1320-yillar",
+      "1340-yillar",
+      "1360-yillar"
+    ],
+    "togri": "C",
+    "id": 97,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Qoraxoniylar davlatiga kim asos solgan? (31-savol variant)",
+    "variantlar": [
+      "Satuq Bug'roxon",
+      "Tamg'achxon",
+      "Iligxon",
+      "Nasr ibn Ali"
+    ],
+    "togri": "A",
+    "id": 98,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Xiva xonligida 'Qo'shbegi' qanday lavozim bo'lgan? (32-savol variant)",
+    "variantlar": [
+      "Bosh vazir",
+      "Harbiy vazir",
+      "Moliya vaziri",
+      "Sudya"
+    ],
+    "togri": "A",
+    "id": 99,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Chig'atoy ulusi qachon ikkiga bo'linib ketdi? (33-savol variant)",
+    "variantlar": [
+      "1370-yillar",
+      "1360-yillar",
+      "1320-yillar",
+      "1340-yillar"
+    ],
+    "togri": "D",
+    "id": 100,
+    "daraja": "qiyin"
+  }
+]

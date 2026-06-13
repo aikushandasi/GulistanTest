@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "Suvning kimyoviy formulasi qanday?",
+    "variantlar": [
+      "H2O2",
+      "CO2",
+      "H2O",
+      "O2"
+    ],
+    "togri": "C",
+    "id": 1,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi?",
+    "variantlar": [
+      "6",
+      "8",
+      "9",
+      "7"
+    ],
+    "togri": "B",
+    "id": 2,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi?",
+    "variantlar": [
+      "Vodorod",
+      "Kislorod",
+      "Azot",
+      "Geli"
+    ],
+    "togri": "A",
+    "id": 3,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday?",
+    "variantlar": [
+      "KCl",
+      "HCl",
+      "NaCl",
+      "NaOH"
+    ],
+    "togri": "C",
+    "id": 4,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Karbonat angidrid formulasi qanday?",
+    "variantlar": [
+      "CO",
+      "CaCO3",
+      "CH4",
+      "CO2"
+    ],
+    "togri": "D",
+    "id": 5,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Suvning kimyoviy formulasi qanday? (Variant 6)",
+    "variantlar": [
+      "H2O",
+      "CO2",
+      "H2O2",
+      "O2"
+    ],
+    "togri": "A",
+    "id": 6,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi? (Variant 7)",
+    "variantlar": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "togri": "A",
+    "id": 7,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi? (Variant 8)",
+    "variantlar": [
+      "Geli",
+      "Vodorod",
+      "Kislorod",
+      "Azot"
+    ],
+    "togri": "B",
+    "id": 8,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday? (Variant 9)",
+    "variantlar": [
+      "NaCl",
+      "KCl",
+      "NaOH",
+      "HCl"
+    ],
+    "togri": "A",
+    "id": 9,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Karbonat angidrid formulasi qanday? (Variant 10)",
+    "variantlar": [
+      "CO2",
+      "CO",
+      "CaCO3",
+      "CH4"
+    ],
+    "togri": "A",
+    "id": 10,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Suvning kimyoviy formulasi qanday? (Variant 11)",
+    "variantlar": [
+      "CO2",
+      "O2",
+      "H2O2",
+      "H2O"
+    ],
+    "togri": "D",
+    "id": 11,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi? (Variant 12)",
+    "variantlar": [
+      "6",
+      "8",
+      "9",
+      "7"
+    ],
+    "togri": "B",
+    "id": 12,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi? (Variant 13)",
+    "variantlar": [
+      "Vodorod",
+      "Kislorod",
+      "Geli",
+      "Azot"
+    ],
+    "togri": "A",
+    "id": 13,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday? (Variant 14)",
+    "variantlar": [
+      "HCl",
+      "NaOH",
+      "KCl",
+      "NaCl"
+    ],
+    "togri": "D",
+    "id": 14,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Karbonat angidrid formulasi qanday? (Variant 15)",
+    "variantlar": [
+      "CH4",
+      "CO",
+      "CaCO3",
+      "CO2"
+    ],
+    "togri": "D",
+    "id": 15,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Suvning kimyoviy formulasi qanday? (Variant 16)",
+    "variantlar": [
+      "H2O2",
+      "H2O",
+      "O2",
+      "CO2"
+    ],
+    "togri": "B",
+    "id": 16,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi? (Variant 17)",
+    "variantlar": [
+      "7",
+      "9",
+      "8",
+      "6"
+    ],
+    "togri": "C",
+    "id": 17,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi? (Variant 18)",
+    "variantlar": [
+      "Azot",
+      "Kislorod",
+      "Geli",
+      "Vodorod"
+    ],
+    "togri": "D",
+    "id": 18,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday? (Variant 19)",
+    "variantlar": [
+      "NaOH",
+      "KCl",
+      "NaCl",
+      "HCl"
+    ],
+    "togri": "C",
+    "id": 19,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Karbonat angidrid formulasi qanday? (Variant 20)",
+    "variantlar": [
+      "CaCO3",
+      "CO2",
+      "CO",
+      "CH4"
+    ],
+    "togri": "B",
+    "id": 20,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Suvning kimyoviy formulasi qanday? (Variant 21)",
+    "variantlar": [
+      "CO2",
+      "H2O",
+      "O2",
+      "H2O2"
+    ],
+    "togri": "B",
+    "id": 21,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi? (Variant 22)",
+    "variantlar": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "togri": "A",
+    "id": 22,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi? (Variant 23)",
+    "variantlar": [
+      "Kislorod",
+      "Azot",
+      "Geli",
+      "Vodorod"
+    ],
+    "togri": "D",
+    "id": 23,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday? (Variant 24)",
+    "variantlar": [
+      "HCl",
+      "NaCl",
+      "KCl",
+      "NaOH"
+    ],
+    "togri": "B",
+    "id": 24,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Karbonat angidrid formulasi qanday? (Variant 25)",
+    "variantlar": [
+      "CO2",
+      "CaCO3",
+      "CO",
+      "CH4"
+    ],
+    "togri": "A",
+    "id": 25,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Suvning kimyoviy formulasi qanday? (Variant 26)",
+    "variantlar": [
+      "H2O",
+      "CO2",
+      "H2O2",
+      "O2"
+    ],
+    "togri": "A",
+    "id": 26,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi? (Variant 27)",
+    "variantlar": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "togri": "A",
+    "id": 27,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi? (Variant 28)",
+    "variantlar": [
+      "Kislorod",
+      "Azot",
+      "Geli",
+      "Vodorod"
+    ],
+    "togri": "D",
+    "id": 28,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday? (Variant 29)",
+    "variantlar": [
+      "NaCl",
+      "KCl",
+      "NaOH",
+      "HCl"
+    ],
+    "togri": "A",
+    "id": 29,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Karbonat angidrid formulasi qanday? (Variant 30)",
+    "variantlar": [
+      "CO2",
+      "CO",
+      "CH4",
+      "CaCO3"
+    ],
+    "togri": "A",
+    "id": 30,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Suvning kimyoviy formulasi qanday? (Variant 31)",
+    "variantlar": [
+      "H2O2",
+      "H2O",
+      "CO2",
+      "O2"
+    ],
+    "togri": "B",
+    "id": 31,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Kislorodning tartib raqami nechchi? (Variant 32)",
+    "variantlar": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "togri": "C",
+    "id": 32,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Eng yengil gaz qaysi? (Variant 33)",
+    "variantlar": [
+      "Vodorod",
+      "Kislorod",
+      "Azot",
+      "Geli"
+    ],
+    "togri": "A",
+    "id": 33,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Osh tuzining formulasi qanday? (Variant 34)",
+    "variantlar": [
+      "KCl",
+      "NaCl",
+      "NaOH",
+      "HCl"
+    ],
+    "togri": "B",
+    "id": 34,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday?",
+    "variantlar": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "H3PO4"
+    ],
+    "togri": "B",
+    "id": 35,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi?",
+    "variantlar": [
+      "Fe2O3",
+      "FeO",
+      "Fe3O4",
+      "Fe(OH)3"
+    ],
+    "togri": "A",
+    "id": 36,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan?",
+    "variantlar": [
+      "1860-yil",
+      "1901-yil",
+      "1875-yil",
+      "1869-yil"
+    ],
+    "togri": "D",
+    "id": 37,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 4)",
+    "variantlar": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "H3PO4"
+    ],
+    "togri": "A",
+    "id": 38,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 5)",
+    "variantlar": [
+      "Fe(OH)3",
+      "Fe3O4",
+      "FeO",
+      "Fe2O3"
+    ],
+    "togri": "D",
+    "id": 39,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 6)",
+    "variantlar": [
+      "1901-yil",
+      "1860-yil",
+      "1875-yil",
+      "1869-yil"
+    ],
+    "togri": "D",
+    "id": 40,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 7)",
+    "variantlar": [
+      "H2SO4",
+      "HCl",
+      "H3PO4",
+      "HNO3"
+    ],
+    "togri": "A",
+    "id": 41,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 8)",
+    "variantlar": [
+      "Fe(OH)3",
+      "FeO",
+      "Fe3O4",
+      "Fe2O3"
+    ],
+    "togri": "D",
+    "id": 42,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 9)",
+    "variantlar": [
+      "1869-yil",
+      "1875-yil",
+      "1860-yil",
+      "1901-yil"
+    ],
+    "togri": "A",
+    "id": 43,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 10)",
+    "variantlar": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "H3PO4"
+    ],
+    "togri": "A",
+    "id": 44,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 11)",
+    "variantlar": [
+      "Fe(OH)3",
+      "FeO",
+      "Fe3O4",
+      "Fe2O3"
+    ],
+    "togri": "D",
+    "id": 45,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 12)",
+    "variantlar": [
+      "1860-yil",
+      "1901-yil",
+      "1875-yil",
+      "1869-yil"
+    ],
+    "togri": "D",
+    "id": 46,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 13)",
+    "variantlar": [
+      "H2SO4",
+      "HNO3",
+      "H3PO4",
+      "HCl"
+    ],
+    "togri": "A",
+    "id": 47,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 14)",
+    "variantlar": [
+      "Fe2O3",
+      "FeO",
+      "Fe3O4",
+      "Fe(OH)3"
+    ],
+    "togri": "A",
+    "id": 48,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 15)",
+    "variantlar": [
+      "1875-yil",
+      "1901-yil",
+      "1869-yil",
+      "1860-yil"
+    ],
+    "togri": "C",
+    "id": 49,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 16)",
+    "variantlar": [
+      "H2SO4",
+      "H3PO4",
+      "HCl",
+      "HNO3"
+    ],
+    "togri": "A",
+    "id": 50,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 17)",
+    "variantlar": [
+      "Fe3O4",
+      "Fe(OH)3",
+      "FeO",
+      "Fe2O3"
+    ],
+    "togri": "D",
+    "id": 51,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 18)",
+    "variantlar": [
+      "1869-yil",
+      "1901-yil",
+      "1875-yil",
+      "1860-yil"
+    ],
+    "togri": "A",
+    "id": 52,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 19)",
+    "variantlar": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "H3PO4"
+    ],
+    "togri": "A",
+    "id": 53,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 20)",
+    "variantlar": [
+      "Fe2O3",
+      "FeO",
+      "Fe(OH)3",
+      "Fe3O4"
+    ],
+    "togri": "A",
+    "id": 54,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 21)",
+    "variantlar": [
+      "1901-yil",
+      "1860-yil",
+      "1869-yil",
+      "1875-yil"
+    ],
+    "togri": "C",
+    "id": 55,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 22)",
+    "variantlar": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "H3PO4"
+    ],
+    "togri": "A",
+    "id": 56,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 23)",
+    "variantlar": [
+      "Fe2O3",
+      "FeO",
+      "Fe3O4",
+      "Fe(OH)3"
+    ],
+    "togri": "A",
+    "id": 57,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 24)",
+    "variantlar": [
+      "1860-yil",
+      "1875-yil",
+      "1901-yil",
+      "1869-yil"
+    ],
+    "togri": "D",
+    "id": 58,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 25)",
+    "variantlar": [
+      "H3PO4",
+      "HCl",
+      "H2SO4",
+      "HNO3"
+    ],
+    "togri": "C",
+    "id": 59,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 26)",
+    "variantlar": [
+      "Fe(OH)3",
+      "Fe2O3",
+      "FeO",
+      "Fe3O4"
+    ],
+    "togri": "B",
+    "id": 60,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 27)",
+    "variantlar": [
+      "1860-yil",
+      "1901-yil",
+      "1875-yil",
+      "1869-yil"
+    ],
+    "togri": "D",
+    "id": 61,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 28)",
+    "variantlar": [
+      "H2SO4",
+      "HCl",
+      "H3PO4",
+      "HNO3"
+    ],
+    "togri": "A",
+    "id": 62,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 29)",
+    "variantlar": [
+      "Fe(OH)3",
+      "Fe3O4",
+      "FeO",
+      "Fe2O3"
+    ],
+    "togri": "D",
+    "id": 63,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 30)",
+    "variantlar": [
+      "1901-yil",
+      "1875-yil",
+      "1869-yil",
+      "1860-yil"
+    ],
+    "togri": "C",
+    "id": 64,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Sulfat kislota formulasi qanday? (Variant 31)",
+    "variantlar": [
+      "H2SO4",
+      "H3PO4",
+      "HCl",
+      "HNO3"
+    ],
+    "togri": "A",
+    "id": 65,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Temir zanglaganda qanday modda hosil bo'ladi? (Variant 32)",
+    "variantlar": [
+      "Fe2O3",
+      "FeO",
+      "Fe3O4",
+      "Fe(OH)3"
+    ],
+    "togri": "A",
+    "id": 66,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Mendeleyev davriy jadvali qachon yaratilgan? (Variant 33)",
+    "variantlar": [
+      "1901-yil",
+      "1869-yil",
+      "1875-yil",
+      "1860-yil"
+    ],
+    "togri": "B",
+    "id": 67,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi?",
+    "variantlar": [
+      "Ostvald usuli",
+      "Gaber usuli",
+      "Kontakt usuli",
+      "Pireks usuli"
+    ],
+    "togri": "A",
+    "id": 68,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday?",
+    "variantlar": [
+      "CnH2n-6",
+      "CnH2n-2",
+      "CnH2n+2",
+      "CnH2n"
+    ],
+    "togri": "D",
+    "id": 69,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi?",
+    "variantlar": [
+      "Tuzning gidroliziga",
+      "Uglevodorodning yonishiga",
+      "Spirtning suvsizlanishiga",
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga"
+    ],
+    "togri": "D",
+    "id": 70,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 4)",
+    "variantlar": [
+      "Kontakt usuli",
+      "Pireks usuli",
+      "Gaber usuli",
+      "Ostvald usuli"
+    ],
+    "togri": "D",
+    "id": 71,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 5)",
+    "variantlar": [
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnH2n-6",
+      "CnH2n"
+    ],
+    "togri": "D",
+    "id": 72,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 6)",
+    "variantlar": [
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga",
+      "Uglevodorodning yonishiga",
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga"
+    ],
+    "togri": "D",
+    "id": 73,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 7)",
+    "variantlar": [
+      "Pireks usuli",
+      "Ostvald usuli",
+      "Gaber usuli",
+      "Kontakt usuli"
+    ],
+    "togri": "B",
+    "id": 74,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 8)",
+    "variantlar": [
+      "CnH2n-6",
+      "CnH2n-2",
+      "CnH2n+2",
+      "CnH2n"
+    ],
+    "togri": "D",
+    "id": 75,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 9)",
+    "variantlar": [
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Uglevodorodning yonishiga",
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga"
+    ],
+    "togri": "A",
+    "id": 76,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 10)",
+    "variantlar": [
+      "Ostvald usuli",
+      "Pireks usuli",
+      "Gaber usuli",
+      "Kontakt usuli"
+    ],
+    "togri": "A",
+    "id": 77,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 11)",
+    "variantlar": [
+      "CnH2n",
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnH2n-6"
+    ],
+    "togri": "A",
+    "id": 78,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 12)",
+    "variantlar": [
+      "Spirtning suvsizlanishiga",
+      "Tuzning gidroliziga",
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Uglevodorodning yonishiga"
+    ],
+    "togri": "C",
+    "id": 79,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 13)",
+    "variantlar": [
+      "Pireks usuli",
+      "Kontakt usuli",
+      "Ostvald usuli",
+      "Gaber usuli"
+    ],
+    "togri": "C",
+    "id": 80,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 14)",
+    "variantlar": [
+      "CnH2n-6",
+      "CnH2n+2",
+      "CnH2n",
+      "CnH2n-2"
+    ],
+    "togri": "C",
+    "id": 81,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 15)",
+    "variantlar": [
+      "Uglevodorodning yonishiga",
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga",
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga"
+    ],
+    "togri": "D",
+    "id": 82,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 16)",
+    "variantlar": [
+      "Gaber usuli",
+      "Ostvald usuli",
+      "Pireks usuli",
+      "Kontakt usuli"
+    ],
+    "togri": "B",
+    "id": 83,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 17)",
+    "variantlar": [
+      "CnH2n",
+      "CnH2n-6",
+      "CnH2n+2",
+      "CnH2n-2"
+    ],
+    "togri": "A",
+    "id": 84,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 18)",
+    "variantlar": [
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga",
+      "Uglevodorodning yonishiga"
+    ],
+    "togri": "A",
+    "id": 85,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 19)",
+    "variantlar": [
+      "Ostvald usuli",
+      "Gaber usuli",
+      "Kontakt usuli",
+      "Pireks usuli"
+    ],
+    "togri": "A",
+    "id": 86,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 20)",
+    "variantlar": [
+      "CnH2n-2",
+      "CnH2n+2",
+      "CnH2n",
+      "CnH2n-6"
+    ],
+    "togri": "C",
+    "id": 87,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 21)",
+    "variantlar": [
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga",
+      "Uglevodorodning yonishiga"
+    ],
+    "togri": "A",
+    "id": 88,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 22)",
+    "variantlar": [
+      "Pireks usuli",
+      "Kontakt usuli",
+      "Gaber usuli",
+      "Ostvald usuli"
+    ],
+    "togri": "D",
+    "id": 89,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 23)",
+    "variantlar": [
+      "CnH2n-6",
+      "CnH2n+2",
+      "CnH2n",
+      "CnH2n-2"
+    ],
+    "togri": "C",
+    "id": 90,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 24)",
+    "variantlar": [
+      "Spirtning suvsizlanishiga",
+      "Uglevodorodning yonishiga",
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Tuzning gidroliziga"
+    ],
+    "togri": "C",
+    "id": 91,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 25)",
+    "variantlar": [
+      "Kontakt usuli",
+      "Pireks usuli",
+      "Gaber usuli",
+      "Ostvald usuli"
+    ],
+    "togri": "D",
+    "id": 92,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 26)",
+    "variantlar": [
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnH2n-6",
+      "CnH2n"
+    ],
+    "togri": "D",
+    "id": 93,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 27)",
+    "variantlar": [
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga",
+      "Uglevodorodning yonishiga"
+    ],
+    "togri": "A",
+    "id": 94,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 28)",
+    "variantlar": [
+      "Kontakt usuli",
+      "Gaber usuli",
+      "Pireks usuli",
+      "Ostvald usuli"
+    ],
+    "togri": "D",
+    "id": 95,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 29)",
+    "variantlar": [
+      "CnH2n",
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnH2n-6"
+    ],
+    "togri": "A",
+    "id": 96,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 30)",
+    "variantlar": [
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Tuzning gidroliziga",
+      "Uglevodorodning yonishiga",
+      "Spirtning suvsizlanishiga"
+    ],
+    "togri": "A",
+    "id": 97,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Nitrat kislota sanoatda qaysi usul bilan olinadi? (Variant 31)",
+    "variantlar": [
+      "Gaber usuli",
+      "Ostvald usuli",
+      "Kontakt usuli",
+      "Pireks usuli"
+    ],
+    "togri": "B",
+    "id": 98,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Alkenlar gomologik qatorining umumiy formulasi qanday? (Variant 32)",
+    "variantlar": [
+      "CnH2n",
+      "CnH2n-2",
+      "CnH2n+2",
+      "CnH2n-6"
+    ],
+    "togri": "A",
+    "id": 99,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Esterifikatsiya reaksiyasi deb nimaga aytiladi? (Variant 33)",
+    "variantlar": [
+      "Uglevodorodning yonishiga",
+      "Kislota va spirt ta'siridan murakkab efir hosil bo'lishiga",
+      "Tuzning gidroliziga",
+      "Spirtning suvsizlanishiga"
+    ],
+    "togri": "B",
+    "id": 100,
+    "daraja": "qiyin"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "savol": "What is the plural of 'child'?",
+    "variantlar": [
+      "childs",
+      "child",
+      "childes",
+      "children"
+    ],
+    "togri": "D",
+    "id": 1,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ orange is a good fruit.",
+    "variantlar": [
+      "No article",
+      "An",
+      "A",
+      "The"
+    ],
+    "togri": "B",
+    "id": 2,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Kitob'",
+    "variantlar": [
+      "Bag",
+      "Pencil",
+      "Pen",
+      "Book"
+    ],
+    "togri": "D",
+    "id": 3,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'mouse'?",
+    "variantlar": [
+      "mouse",
+      "mice",
+      "mouses",
+      "mices"
+    ],
+    "togri": "B",
+    "id": 4,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ elephant is a good fruit.",
+    "variantlar": [
+      "No article",
+      "The",
+      "A",
+      "An"
+    ],
+    "togri": "D",
+    "id": 5,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Rahmat'",
+    "variantlar": [
+      "Hello",
+      "Goodbye",
+      "Please",
+      "Thank you"
+    ],
+    "togri": "D",
+    "id": 6,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'leaf'?",
+    "variantlar": [
+      "leaves",
+      "leafs",
+      "leavs",
+      "leaf"
+    ],
+    "togri": "A",
+    "id": 7,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ orange is a good fruit.",
+    "variantlar": [
+      "No article",
+      "The",
+      "A",
+      "An"
+    ],
+    "togri": "D",
+    "id": 8,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'It'",
+    "variantlar": [
+      "Horse",
+      "Cow",
+      "Cat",
+      "Dog"
+    ],
+    "togri": "D",
+    "id": 9,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'child'?",
+    "variantlar": [
+      "childes",
+      "child",
+      "childs",
+      "children"
+    ],
+    "togri": "D",
+    "id": 10,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ elephant is a good fruit.",
+    "variantlar": [
+      "A",
+      "No article",
+      "An",
+      "The"
+    ],
+    "togri": "C",
+    "id": 11,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Oila'",
+    "variantlar": [
+      "Family",
+      "Home",
+      "House",
+      "Room"
+    ],
+    "togri": "A",
+    "id": 12,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'mouse'?",
+    "variantlar": [
+      "mice",
+      "mouses",
+      "mices",
+      "mouse"
+    ],
+    "togri": "A",
+    "id": 13,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ orange is a good fruit.",
+    "variantlar": [
+      "A",
+      "The",
+      "An",
+      "No article"
+    ],
+    "togri": "C",
+    "id": 14,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Mushuk'",
+    "variantlar": [
+      "Cat",
+      "Fish",
+      "Bird",
+      "Dog"
+    ],
+    "togri": "A",
+    "id": 15,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'leaf'?",
+    "variantlar": [
+      "leaf",
+      "leavs",
+      "leafs",
+      "leaves"
+    ],
+    "togri": "D",
+    "id": 16,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ elephant is a good fruit.",
+    "variantlar": [
+      "No article",
+      "An",
+      "A",
+      "The"
+    ],
+    "togri": "B",
+    "id": 17,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Qalam'",
+    "variantlar": [
+      "Bag",
+      "Pencil",
+      "Book",
+      "Pen"
+    ],
+    "togri": "B",
+    "id": 18,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'child'?",
+    "variantlar": [
+      "childes",
+      "child",
+      "childs",
+      "children"
+    ],
+    "togri": "D",
+    "id": 19,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ orange is a good fruit.",
+    "variantlar": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "togri": "B",
+    "id": 20,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Salom'",
+    "variantlar": [
+      "Hello",
+      "Goodbye",
+      "Yes",
+      "No"
+    ],
+    "togri": "A",
+    "id": 21,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'mouse'?",
+    "variantlar": [
+      "mice",
+      "mouses",
+      "mices",
+      "mouse"
+    ],
+    "togri": "A",
+    "id": 22,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ elephant is a good fruit.",
+    "variantlar": [
+      "An",
+      "A",
+      "The",
+      "No article"
+    ],
+    "togri": "A",
+    "id": 23,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Kitob'",
+    "variantlar": [
+      "Book",
+      "Pencil",
+      "Pen",
+      "Bag"
+    ],
+    "togri": "A",
+    "id": 24,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'leaf'?",
+    "variantlar": [
+      "leaf",
+      "leavs",
+      "leafs",
+      "leaves"
+    ],
+    "togri": "D",
+    "id": 25,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ orange is a good fruit.",
+    "variantlar": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "togri": "C",
+    "id": 26,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Rahmat'",
+    "variantlar": [
+      "Thank you",
+      "Please",
+      "Hello",
+      "Goodbye"
+    ],
+    "togri": "A",
+    "id": 27,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'child'?",
+    "variantlar": [
+      "children",
+      "childs",
+      "child",
+      "childes"
+    ],
+    "togri": "A",
+    "id": 28,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ elephant is a good fruit.",
+    "variantlar": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "togri": "B",
+    "id": 29,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'It'",
+    "variantlar": [
+      "Horse",
+      "Cow",
+      "Cat",
+      "Dog"
+    ],
+    "togri": "D",
+    "id": 30,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'mouse'?",
+    "variantlar": [
+      "mouses",
+      "mouse",
+      "mice",
+      "mices"
+    ],
+    "togri": "C",
+    "id": 31,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct article: ___ orange is a good fruit.",
+    "variantlar": [
+      "The",
+      "No article",
+      "A",
+      "An"
+    ],
+    "togri": "D",
+    "id": 32,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Translate to English: 'Oila'",
+    "variantlar": [
+      "Family",
+      "Home",
+      "Room",
+      "House"
+    ],
+    "togri": "A",
+    "id": 33,
+    "daraja": "oson"
+  },
+  {
+    "savol": "What is the plural of 'leaf'?",
+    "variantlar": [
+      "leaves",
+      "leavs",
+      "leafs",
+      "leaf"
+    ],
+    "togri": "A",
+    "id": 34,
+    "daraja": "oson"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2000.",
+    "variantlar": [
+      "lived",
+      "lives",
+      "has lived",
+      "is living"
+    ],
+    "togri": "C",
+    "id": 35,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "read",
+      "readed",
+      "would read",
+      null
+    ],
+    "togri": "A",
+    "id": 36,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "on",
+      "in",
+      "for",
+      null
+    ],
+    "togri": "B",
+    "id": 37,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2003.",
+    "variantlar": [
+      "is living",
+      "lived",
+      "lives",
+      "has lived"
+    ],
+    "togri": "D",
+    "id": 38,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "would read",
+      "readed",
+      "read",
+      null
+    ],
+    "togri": "C",
+    "id": 39,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "for",
+      "on",
+      "in",
+      null
+    ],
+    "togri": "C",
+    "id": 40,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2006.",
+    "variantlar": [
+      "lived",
+      "lives",
+      "has lived",
+      "is living"
+    ],
+    "togri": "C",
+    "id": 41,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "would read",
+      "readed",
+      "read",
+      null
+    ],
+    "togri": "C",
+    "id": 42,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "in",
+      "on",
+      "for",
+      null
+    ],
+    "togri": "A",
+    "id": 43,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2009.",
+    "variantlar": [
+      "has lived",
+      "is living",
+      "lived",
+      "lives"
+    ],
+    "togri": "A",
+    "id": 44,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "would read",
+      "readed",
+      "read",
+      null
+    ],
+    "togri": "C",
+    "id": 45,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "in",
+      "on",
+      "for",
+      null
+    ],
+    "togri": "A",
+    "id": 46,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2012.",
+    "variantlar": [
+      "is living",
+      "lived",
+      "lives",
+      "has lived"
+    ],
+    "togri": "D",
+    "id": 47,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "readed",
+      "read",
+      "would read",
+      null
+    ],
+    "togri": "B",
+    "id": 48,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "for",
+      "on",
+      "in",
+      null
+    ],
+    "togri": "C",
+    "id": 49,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2015.",
+    "variantlar": [
+      "lived",
+      "lives",
+      "is living",
+      "has lived"
+    ],
+    "togri": "D",
+    "id": 50,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "read",
+      "readed",
+      "would read",
+      null
+    ],
+    "togri": "A",
+    "id": 51,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "in",
+      "on",
+      "for",
+      null
+    ],
+    "togri": "A",
+    "id": 52,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2018.",
+    "variantlar": [
+      "lives",
+      "is living",
+      "lived",
+      "has lived"
+    ],
+    "togri": "D",
+    "id": 53,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "readed",
+      "read",
+      "would read",
+      null
+    ],
+    "togri": "B",
+    "id": 54,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "on",
+      "in",
+      "for",
+      null
+    ],
+    "togri": "B",
+    "id": 55,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2021.",
+    "variantlar": [
+      "has lived",
+      "lives",
+      "lived",
+      "is living"
+    ],
+    "togri": "A",
+    "id": 56,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "read",
+      "would read",
+      "readed",
+      null
+    ],
+    "togri": "A",
+    "id": 57,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "in",
+      "for",
+      "on",
+      null
+    ],
+    "togri": "A",
+    "id": 58,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2024.",
+    "variantlar": [
+      "is living",
+      "lived",
+      "lives",
+      "has lived"
+    ],
+    "togri": "D",
+    "id": 59,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "read",
+      "readed",
+      "would read",
+      null
+    ],
+    "togri": "A",
+    "id": 60,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "on",
+      "for",
+      "in",
+      null
+    ],
+    "togri": "C",
+    "id": 61,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2027.",
+    "variantlar": [
+      "is living",
+      "lived",
+      "lives",
+      "has lived"
+    ],
+    "togri": "D",
+    "id": 62,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "would read",
+      "readed",
+      "read",
+      null
+    ],
+    "togri": "C",
+    "id": 63,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "in",
+      "on",
+      "for",
+      null
+    ],
+    "togri": "A",
+    "id": 64,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Choose the correct tense: She ___ here since 2030.",
+    "variantlar": [
+      "has lived",
+      "lives",
+      "lived",
+      "is living"
+    ],
+    "togri": "A",
+    "id": 65,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the sentence: If it rains, I ___ at home.",
+    "variantlar": [
+      "would read",
+      "readed",
+      "read",
+      null
+    ],
+    "togri": "C",
+    "id": 66,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Which preposition is correct? He is good ___ math.",
+    "variantlar": [
+      "on",
+      "in",
+      "for",
+      null
+    ],
+    "togri": "B",
+    "id": 67,
+    "daraja": "orta"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "had",
+      "will have",
+      "has",
+      null
+    ],
+    "togri": "B",
+    "id": 68,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "put out",
+      "put up",
+      "put in",
+      null
+    ],
+    "togri": "A",
+    "id": 69,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I am going to the store.",
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      null
+    ],
+    "togri": "C",
+    "id": 70,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will hold",
+      "held",
+      "holds",
+      null
+    ],
+    "togri": "A",
+    "id": 71,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "call up",
+      "call out",
+      "call in",
+      null
+    ],
+    "togri": "B",
+    "id": 72,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      "He said I am going to the store.",
+      null
+    ],
+    "togri": "B",
+    "id": 73,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will have",
+      "had",
+      "has",
+      null
+    ],
+    "togri": "A",
+    "id": 74,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "put up",
+      "put in",
+      "put out",
+      null
+    ],
+    "togri": "C",
+    "id": 75,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I am going to the store.",
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      null
+    ],
+    "togri": "C",
+    "id": 76,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will hold",
+      "holds",
+      "held",
+      null
+    ],
+    "togri": "A",
+    "id": 77,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "call up",
+      "call out",
+      "call in",
+      null
+    ],
+    "togri": "B",
+    "id": 78,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I am going to the store.",
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      null
+    ],
+    "togri": "C",
+    "id": 79,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will have",
+      "had",
+      "has",
+      null
+    ],
+    "togri": "A",
+    "id": 80,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "put out",
+      "put in",
+      "put up",
+      null
+    ],
+    "togri": "A",
+    "id": 81,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said he is going to the store.",
+      "He said I am going to the store.",
+      "He said I was going to the store.",
+      null
+    ],
+    "togri": "A",
+    "id": 82,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will hold",
+      "held",
+      "holds",
+      null
+    ],
+    "togri": "A",
+    "id": 83,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "call in",
+      "call out",
+      "call up",
+      null
+    ],
+    "togri": "B",
+    "id": 84,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I am going to the store.",
+      "He said he is going to the store.",
+      "He said I was going to the store.",
+      null
+    ],
+    "togri": "B",
+    "id": 85,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will have",
+      "had",
+      "has",
+      null
+    ],
+    "togri": "A",
+    "id": 86,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "put out",
+      "put in",
+      "put up",
+      null
+    ],
+    "togri": "A",
+    "id": 87,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said he is going to the store.",
+      "He said I was going to the store.",
+      "He said I am going to the store.",
+      null
+    ],
+    "togri": "A",
+    "id": 88,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will hold",
+      "held",
+      "holds",
+      null
+    ],
+    "togri": "A",
+    "id": 89,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "call up",
+      "call in",
+      "call out",
+      null
+    ],
+    "togri": "C",
+    "id": 90,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      "He said I am going to the store.",
+      null
+    ],
+    "togri": "B",
+    "id": 91,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "will have",
+      "had",
+      "has",
+      null
+    ],
+    "togri": "A",
+    "id": 92,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "put out",
+      "put in",
+      "put up",
+      null
+    ],
+    "togri": "A",
+    "id": 93,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I am going to the store.",
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      null
+    ],
+    "togri": "C",
+    "id": 94,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "holds",
+      "held",
+      "will hold",
+      null
+    ],
+    "togri": "C",
+    "id": 95,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "call out",
+      "call in",
+      "call up",
+      null
+    ],
+    "togri": "A",
+    "id": 96,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said he is going to the store.",
+      "He said I was going to the store.",
+      "He said I am going to the store.",
+      null
+    ],
+    "togri": "A",
+    "id": 97,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Complete the mixed conditional: If he had studied harder, he ___ a better job now.",
+    "variantlar": [
+      "has",
+      "had",
+      "will have",
+      null
+    ],
+    "togri": "C",
+    "id": 98,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Identify the correct phrasal verb: They had to ___ the meeting because of the rain.",
+    "variantlar": [
+      "put up",
+      "put in",
+      "put out",
+      null
+    ],
+    "togri": "C",
+    "id": 99,
+    "daraja": "qiyin"
+  },
+  {
+    "savol": "Select the correct reported speech for: 'I am going to the store,' he said.",
+    "variantlar": [
+      "He said I am going to the store.",
+      "He said I was going to the store.",
+      "He said he is going to the store.",
+      null
+    ],
+    "togri": "C",
+    "id": 100,
+    "daraja": "qiyin"
+  }
+]
