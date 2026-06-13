@@ -1,8 +1,9 @@
+require('dotenv').config();
 const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 const path = require('path');
 
-const token = '8686057401:AAEdlYxcOIylaJfttAwHmCC4PFMmZLZ7X3s';
+const token = process.env.BOT_TOKEN;
 const bot = new TelegramBot(token, {polling: true});
 
 const DB_USERS = path.join(__dirname, 'database', 'users.json');
